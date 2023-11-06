@@ -1,5 +1,8 @@
 body{
     text-aling:center;
-background: #cccccc
+background: #cccred
 }
 
+strong {
+    color:red;
+}
